@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'az-webapp-vk-vs'
           slot-name: 'Staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC0E995887CA4182BC11204689B22139 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_041596DFA890455D86DF78AC4420D615 }}
           package: .
